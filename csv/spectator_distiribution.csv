@@ -1,0 +1,622 @@
+"number","noPure","under2500","posNo","top50","posUnd","difference","row"
+453,815,491,1,"Top 50 both",1,0,1
+465,748,277,2,"Top 50 both",3,1,2
+378,673,66,3,"Top 50 both",22,19,3
+411,653,28,4,"Top 50 only on data with no length restrictions",59,55,4
+628,604,383,5,"Top 50 both",2,3,5
+412,551,62,6,"Top 50 both",23,17,6
+571,488,36,7,"Top 50 both",44,37,7
+441,465,228,8,"Top 50 both",4,4,8
+111,444,76,9,"Top 50 both",15,6,9
+413,424,53,10,"Top 50 both",26,16,10
+93,410,67,11,"Top 50 both",21,10,11
+253,404,76,12,"Top 50 both",16,4,12
+414,364,38,13,"Top 50 both",42,29,13
+315,356,11,14,"Top 50 only on data with no length restrictions",156,142,14
+309,354,0,15,"Top 50 only on data with no length restrictions",635,620,15
+303,352,9,16,"Top 50 only on data with no length restrictions",188,172,16
+195,350,103,17,"Top 50 both",9,8,17
+387,347,18,18,"Top 50 only on data with no length restrictions",90,72,18
+381,321,9,19,"Top 50 only on data with no length restrictions",189,170,19
+321,307,6,20,"Top 50 only on data with no length restrictions",224,204,20
+393,306,12,22,"Top 50 only on data with no length restrictions",145,123,21
+363,306,9,21,"Top 50 only on data with no length restrictions",190,169,22
+73,299,207,23,"Top 50 both",5,18,23
+215,291,86,24,"Top 50 both",13,11,24
+345,290,1,25,"Top 50 only on data with no length restrictions",378,353,25
+237,289,80,26,"Top 50 both",14,12,26
+447,286,42,27,"Top 50 both",38,11,27
+164,285,19,28,"Top 50 only on data with no length restrictions",82,54,28
+33,283,14,29,"Top 50 only on data with no length restrictions",120,91,29
+357,281,1,30,"Top 50 only on data with no length restrictions",379,349,30
+159,255,2,31,"Top 50 only on data with no length restrictions",330,299,31
+351,255,1,32,"Top 50 only on data with no length restrictions",380,348,32
+369,254,0,33,"Top 50 only on data with no length restrictions",635,602,33
+267,251,3,34,"Top 50 only on data with no length restrictions",294,260,34
+519,249,26,35,"Top 50 only on data with no length restrictions",62,27,35
+225,237,19,36,"Top 50 only on data with no length restrictions",83,47,36
+26,229,87,37,"Top 50 both",11,26,37
+7,228,49,38,"Top 50 both",29,9,38
+69,218,87,39,"Top 50 both",12,27,39
+406,216,11,40,"Top 50 only on data with no length restrictions",157,117,40
+201,215,45,41,"Top 50 both",36,5,41
+333,212,1,42,"Top 50 only on data with no length restrictions",381,339,42
+254,207,2,43,"Top 50 only on data with no length restrictions",331,288,43
+125,206,76,44,"Top 50 both",17,27,44
+135,205,30,45,"Top 50 only on data with no length restrictions",52,7,45
+593,200,153,46,"Top 50 both",6,40,46
+574,199,7,48,"Top 50 only on data with no length restrictions",213,165,47
+339,199,1,47,"Top 50 only on data with no length restrictions",382,335,48
+513,198,76,49,"Top 50 both",18,31,49
+399,196,43,50,"Top 50 both",37,13,50
+580,190,6,51,"Not in top 50 in either data",225,174,51
+120,185,49,52,"Top 50 only on data with under 2500 character reuse",30,22,52
+186,184,14,53,"Not in top 50 in either data",121,68,53
+569,182,18,54,"Not in top 50 in either data",91,37,54
+575,177,23,55,"Not in top 50 in either data",70,15,55
+89,175,148,56,"Top 50 only on data with under 2500 character reuse",7,49,56
+464,173,39,57,"Top 50 only on data with under 2500 character reuse",41,16,57
+210,169,13,58,"Not in top 50 in either data",134,76,58
+115,168,28,59,"Not in top 50 in either data",60,1,59
+27,166,56,60,"Top 50 only on data with under 2500 character reuse",24,36,60
+491,166,1,61,"Not in top 50 in either data",383,322,61
+537,163,26,63,"Not in top 50 in either data",63,0,62
+257,163,4,62,"Not in top 50 in either data",268,206,63
+572,162,49,65,"Top 50 only on data with under 2500 character reuse",31,34,64
+256,162,0,64,"Not in top 50 in either data",635,571,65
+112,160,22,66,"Not in top 50 in either data",75,9,66
+279,158,5,67,"Not in top 50 in either data",247,180,67
+229,157,123,68,"Top 50 only on data with under 2500 character reuse",8,60,68
+183,156,49,69,"Top 50 only on data with under 2500 character reuse",32,37,69
+285,154,13,70,"Not in top 50 in either data",135,65,70
+297,154,3,71,"Not in top 50 in either data",295,224,71
+169,152,24,73,"Not in top 50 in either data",66,7,72
+160,152,3,72,"Not in top 50 in either data",296,224,73
+405,151,71,74,"Top 50 only on data with under 2500 character reuse",20,54,74
+263,150,4,75,"Not in top 50 in either data",269,194,75
+219,148,12,76,"Not in top 50 in either data",146,70,76
+255,145,10,77,"Not in top 50 in either data",171,94,77
+461,142,98,78,"Top 50 only on data with under 2500 character reuse",10,68,78
+404,139,9,79,"Not in top 50 in either data",191,112,79
+419,138,75,81,"Top 50 only on data with under 2500 character reuse",19,62,80
+231,138,12,80,"Not in top 50 in either data",147,67,81
+532,138,8,82,"Not in top 50 in either data",200,118,82
+603,136,29,84,"Not in top 50 in either data",54,30,83
+576,136,8,83,"Not in top 50 in either data",201,118,84
+421,134,33,85,"Top 50 only on data with under 2500 character reuse",47,38,85
+460,133,14,86,"Not in top 50 in either data",122,36,86
+153,132,12,87,"Not in top 50 in either data",148,61,87
+559,131,1,88,"Not in top 50 in either data",384,296,88
+535,128,14,89,"Not in top 50 in either data",123,34,89
+477,127,19,90,"Not in top 50 in either data",84,6,90
+420,126,8,91,"Not in top 50 in either data",202,111,91
+197,125,15,92,"Not in top 50 in either data",110,18,92
+287,125,15,93,"Not in top 50 in either data",111,18,93
+558,125,1,94,"Not in top 50 in either data",385,291,94
+128,124,18,95,"Not in top 50 in either data",92,3,95
+213,123,6,96,"Not in top 50 in either data",226,130,96
+565,123,2,97,"Not in top 50 in either data",332,235,97
+382,122,13,98,"Not in top 50 in either data",136,38,98
+116,121,32,99,"Top 50 only on data with under 2500 character reuse",49,50,99
+494,121,19,101,"Not in top 50 in either data",85,16,100
+349,121,18,100,"Not in top 50 in either data",93,7,101
+23,120,10,102,"Not in top 50 in either data",172,70,102
+12,119,24,103,"Not in top 50 in either data",67,36,103
+198,119,0,104,"Not in top 50 in either data",635,531,104
+316,117,6,105,"Not in top 50 in either data",227,122,105
+600,117,1,106,"Not in top 50 in either data",386,280,106
+249,116,55,108,"Top 50 only on data with under 2500 character reuse",25,83,107
+163,116,19,107,"Not in top 50 in either data",86,21,108
+268,116,15,109,"Not in top 50 in either data",112,3,109
+471,116,9,110,"Not in top 50 in either data",192,82,110
+147,115,12,111,"Not in top 50 in either data",149,38,111
+427,114,9,112,"Not in top 50 in either data",193,81,112
+459,114,2,113,"Not in top 50 in either data",333,220,113
+223,111,36,114,"Top 50 only on data with under 2500 character reuse",45,69,114
+375,111,4,115,"Not in top 50 in either data",270,155,115
+610,110,31,118,"Not in top 50 in either data",51,67,116
+292,110,18,117,"Not in top 50 in either data",94,23,117
+68,110,10,116,"Not in top 50 in either data",173,57,118
+409,108,17,120,"Not in top 50 in either data",99,21,119
+100,108,6,119,"Not in top 50 in either data",228,109,120
+512,107,23,124,"Not in top 50 in either data",71,53,121
+86,107,22,121,"Not in top 50 in either data",76,45,122
+458,107,20,123,"Not in top 50 in either data",79,44,123
+202,107,4,122,"Not in top 50 in either data",271,149,124
+81,106,38,126,"Top 50 only on data with under 2500 character reuse",43,83,125
+490,106,30,128,"Not in top 50 in either data",53,75,126
+385,106,12,127,"Not in top 50 in either data",150,23,127
+38,106,3,125,"Not in top 50 in either data",297,172,128
+28,105,34,129,"Top 50 only on data with under 2500 character reuse",46,83,129
+291,105,12,131,"Not in top 50 in either data",151,20,130
+273,105,10,130,"Not in top 50 in either data",174,44,131
+185,104,18,132,"Not in top 50 in either data",95,37,132
+590,103,5,134,"Not in top 50 in either data",248,114,133
+407,103,4,133,"Not in top 50 in either data",272,139,134
+543,102,3,135,"Not in top 50 in either data",298,163,135
+479,101,6,136,"Not in top 50 in either data",229,93,136
+501,101,0,137,"Not in top 50 in either data",635,498,137
+594,100,14,140,"Not in top 50 in either data",124,16,138
+604,100,7,141,"Not in top 50 in either data",214,73,139
+302,100,5,139,"Not in top 50 in either data",249,110,140
+224,100,4,138,"Not in top 50 in either data",273,135,141
+557,99,8,144,"Not in top 50 in either data",203,59,142
+207,99,5,142,"Not in top 50 in either data",250,108,143
+274,99,2,143,"Not in top 50 in either data",334,191,144
+2,98,11,145,"Not in top 50 in either data",158,13,145
+40,97,14,146,"Not in top 50 in either data",125,21,146
+25,96,19,147,"Not in top 50 in either data",87,60,147
+149,95,13,148,"Not in top 50 in either data",137,11,148
+548,95,1,149,"Not in top 50 in either data",387,238,149
+337,94,8,150,"Not in top 50 in either data",204,54,150
+631,94,3,151,"Not in top 50 in either data",299,148,151
+188,91,7,152,"Not in top 50 in either data",215,63,152
+206,91,7,153,"Not in top 50 in either data",216,63,153
+601,91,6,154,"Not in top 50 in either data",230,76,154
+39,90,50,155,"Top 50 only on data with under 2500 character reuse",27,128,155
+121,90,25,158,"Not in top 50 in either data",65,93,156
+107,90,13,157,"Not in top 50 in either data",138,19,157
+123,90,5,159,"Not in top 50 in either data",251,92,158
+94,90,4,156,"Not in top 50 in either data",274,118,159
+293,89,14,160,"Not in top 50 in either data",126,34,160
+495,88,47,161,"Top 50 only on data with under 2500 character reuse",34,127,161
+110,87,50,162,"Top 50 only on data with under 2500 character reuse",28,134,162
+238,87,13,163,"Not in top 50 in either data",139,24,163
+373,87,2,164,"Not in top 50 in either data",335,171,164
+507,86,19,165,"Not in top 50 in either data",88,77,165
+289,85,29,168,"Not in top 50 in either data",55,113,166
+204,85,17,167,"Not in top 50 in either data",100,67,167
+166,85,5,166,"Not in top 50 in either data",252,86,168
+633,85,3,169,"Not in top 50 in either data",300,131,169
+11,83,15,170,"Not in top 50 in either data",113,57,170
+30,82,4,171,"Not in top 50 in either data",275,104,171
+196,81,15,172,"Not in top 50 in either data",114,58,172
+307,81,10,173,"Not in top 50 in either data",175,2,173
+241,80,14,175,"Not in top 50 in either data",127,48,174
+6,80,10,174,"Not in top 50 in either data",176,2,175
+418,79,24,179,"Not in top 50 in either data",68,111,176
+451,79,13,180,"Not in top 50 in either data",140,40,177
+15,79,7,176,"Not in top 50 in either data",217,41,178
+24,79,3,177,"Not in top 50 in either data",301,124,179
+353,79,1,178,"Not in top 50 in either data",388,210,180
+82,78,32,181,"Top 50 only on data with under 2500 character reuse",50,131,181
+525,77,8,183,"Not in top 50 in either data",205,22,182
+415,77,1,182,"Not in top 50 in either data",389,207,183
+438,76,8,184,"Not in top 50 in either data",206,22,184
+29,75,6,185,"Not in top 50 in either data",231,46,185
+334,75,2,186,"Not in top 50 in either data",336,150,186
+541,74,46,192,"Top 50 only on data with under 2500 character reuse",35,157,187
+527,74,42,191,"Top 50 only on data with under 2500 character reuse",39,152,188
+388,74,15,188,"Not in top 50 in either data",115,73,189
+483,74,13,190,"Not in top 50 in either data",141,49,190
+422,74,5,189,"Not in top 50 in either data",253,64,191
+56,74,0,187,"Not in top 50 in either data",635,448,192
+117,73,41,193,"Top 50 only on data with under 2500 character reuse",40,153,193
+200,73,11,194,"Not in top 50 in either data",159,35,194
+417,73,7,195,"Not in top 50 in either data",218,23,195
+55,72,17,196,"Not in top 50 in either data",101,95,196
+340,72,16,198,"Not in top 50 in either data",107,91,197
+172,72,11,197,"Not in top 50 in either data",160,37,198
+583,71,29,199,"Not in top 50 in either data",56,143,199
+199,70,11,201,"Not in top 50 in either data",161,40,200
+99,70,10,200,"Not in top 50 in either data",177,23,201
+462,69,18,205,"Not in top 50 in either data",96,109,202
+126,69,14,203,"Not in top 50 in either data",128,75,203
+32,69,4,202,"Not in top 50 in either data",276,74,204
+192,69,4,204,"Not in top 50 in either data",277,73,205
+632,68,23,208,"Not in top 50 in either data",72,136,206
+466,68,18,207,"Not in top 50 in either data",97,110,207
+416,68,1,206,"Not in top 50 in either data",390,184,208
+243,67,10,210,"Not in top 50 in either data",178,32,209
+31,67,2,209,"Not in top 50 in either data",337,128,210
+626,67,2,211,"Not in top 50 in either data",338,127,211
+280,66,1,212,"Not in top 50 in either data",391,179,212
+114,65,15,213,"Not in top 50 in either data",116,97,213
+226,64,49,214,"Top 50 only on data with under 2500 character reuse",33,181,214
+248,64,5,215,"Not in top 50 in either data",254,39,215
+35,63,23,216,"Not in top 50 in either data",73,143,216
+242,63,17,217,"Not in top 50 in either data",102,115,217
+489,62,33,219,"Top 50 only on data with under 2500 character reuse",48,171,218
+467,62,13,218,"Not in top 50 in either data",142,76,219
+214,61,6,221,"Not in top 50 in either data",232,11,220
+90,61,3,220,"Not in top 50 in either data",302,82,221
+191,60,10,222,"Not in top 50 in either data",179,43,222
+294,59,12,223,"Not in top 50 in either data",152,71,223
+133,58,11,225,"Not in top 50 in either data",162,63,224
+103,58,7,224,"Not in top 50 in either data",219,5,225
+209,58,2,226,"Not in top 50 in either data",339,113,226
+85,57,24,227,"Not in top 50 in either data",69,158,227
+262,57,13,228,"Not in top 50 in either data",143,85,228
+448,56,2,229,"Not in top 50 in either data",340,111,229
+581,56,1,230,"Not in top 50 in either data",392,162,230
+139,55,20,231,"Not in top 50 in either data",80,151,231
+531,55,12,232,"Not in top 50 in either data",153,79,232
+232,54,22,234,"Not in top 50 in either data",77,157,233
+247,54,10,235,"Not in top 50 in either data",180,55,234
+181,54,4,233,"Not in top 50 in either data",278,45,235
+286,54,0,236,"Not in top 50 in either data",635,399,236
+366,53,29,237,"Not in top 50 in either data",57,180,237
+551,53,29,238,"Not in top 50 in either data",58,180,238
+570,53,1,239,"Not in top 50 in either data",393,154,239
+468,52,23,241,"Not in top 50 in either data",74,167,240
+79,52,3,240,"Not in top 50 in either data",303,63,241
+591,52,1,242,"Not in top 50 in either data",394,152,242
+157,51,9,244,"Not in top 50 in either data",194,50,243
+127,51,8,243,"Not in top 50 in either data",207,36,244
+505,50,14,247,"Not in top 50 in either data",129,118,245
+433,50,6,245,"Not in top 50 in either data",233,12,246
+456,50,3,246,"Not in top 50 in either data",304,58,247
+544,50,0,248,"Not in top 50 in either data",635,387,248
+57,49,15,249,"Not in top 50 in either data",117,132,249
+101,49,7,250,"Not in top 50 in either data",220,30,250
+364,49,6,251,"Not in top 50 in either data",234,17,251
+588,49,6,254,"Not in top 50 in either data",235,19,252
+449,49,1,253,"Not in top 50 in either data",395,142,253
+431,49,0,252,"Not in top 50 in either data",635,383,254
+554,48,14,256,"Not in top 50 in either data",130,126,255
+95,48,1,255,"Not in top 50 in either data",396,141,256
+70,47,18,258,"Not in top 50 in either data",98,160,257
+10,47,17,257,"Not in top 50 in either data",103,154,258
+143,47,5,260,"Not in top 50 in either data",255,5,259
+394,47,4,264,"Not in top 50 in either data",279,15,260
+317,47,2,262,"Not in top 50 in either data",341,79,261
+130,47,1,259,"Not in top 50 in either data",397,138,262
+310,47,0,261,"Not in top 50 in either data",635,374,263
+392,47,0,263,"Not in top 50 in either data",635,372,264
+343,46,5,268,"Not in top 50 in either data",256,12,265
+98,46,2,265,"Not in top 50 in either data",342,77,266
+162,46,2,267,"Not in top 50 in either data",343,76,267
+122,46,1,266,"Not in top 50 in either data",398,132,268
+358,46,0,269,"Not in top 50 in either data",635,366,269
+500,46,0,270,"Not in top 50 in either data",635,365,270
+150,45,26,272,"Not in top 50 in either data",64,208,271
+1,45,9,271,"Not in top 50 in either data",195,76,272
+174,45,5,273,"Not in top 50 in either data",257,16,273
+184,45,0,274,"Not in top 50 in either data",635,361,274
+469,45,0,275,"Not in top 50 in either data",635,360,275
+635,44,12,282,"Not in top 50 in either data",154,128,276
+283,44,9,279,"Not in top 50 in either data",196,83,277
+83,44,8,276,"Not in top 50 in either data",208,68,278
+104,44,4,277,"Not in top 50 in either data",280,3,279
+165,44,3,278,"Not in top 50 in either data",305,27,280
+410,44,1,280,"Not in top 50 in either data",399,119,281
+536,44,0,281,"Not in top 50 in either data",635,354,282
+502,43,22,289,"Not in top 50 in either data",78,211,283
+454,43,11,287,"Not in top 50 in either data",163,124,284
+74,43,10,283,"Not in top 50 in either data",181,102,285
+470,43,10,288,"Not in top 50 in either data",182,106,286
+246,43,3,285,"Not in top 50 in either data",306,21,287
+264,43,3,286,"Not in top 50 in either data",307,21,288
+119,43,2,284,"Not in top 50 in either data",344,60,289
+522,43,0,290,"Not in top 50 in either data",635,345,290
+446,42,14,295,"Not in top 50 in either data",131,164,291
+612,42,11,297,"Not in top 50 in either data",164,133,292
+313,42,10,291,"Not in top 50 in either data",183,108,293
+396,42,4,294,"Not in top 50 in either data",281,13,294
+354,42,2,292,"Not in top 50 in either data",345,53,295
+472,42,2,296,"Not in top 50 in either data",346,50,296
+386,42,0,293,"Not in top 50 in either data",635,342,297
+634,42,0,298,"Not in top 50 in either data",635,337,298
+179,41,15,300,"Not in top 50 in either data",118,182,299
+113,41,14,299,"Not in top 50 in either data",132,167,300
+595,41,6,303,"Not in top 50 in either data",236,67,301
+578,41,5,302,"Not in top 50 in either data",258,44,302
+428,41,1,301,"Not in top 50 in either data",400,99,303
+261,40,3,305,"Not in top 50 in either data",308,3,304
+152,40,0,304,"Not in top 50 in either data",635,331,305
+368,40,0,306,"Not in top 50 in either data",635,329,306
+492,40,0,307,"Not in top 50 in either data",635,328,307
+62,39,20,308,"Not in top 50 in either data",81,227,308
+142,39,9,309,"Not in top 50 in either data",197,112,309
+154,39,2,310,"Not in top 50 in either data",347,37,310
+21,38,19,311,"Not in top 50 in either data",89,222,311
+108,38,11,314,"Not in top 50 in either data",165,149,312
+624,38,8,318,"Not in top 50 in either data",209,109,313
+144,38,5,315,"Not in top 50 in either data",259,56,314
+151,38,4,316,"Not in top 50 in either data",282,34,315
+106,38,2,313,"Not in top 50 in either data",348,35,316
+437,38,1,317,"Not in top 50 in either data",401,84,317
+78,38,0,312,"Not in top 50 in either data",635,323,318
+620,37,6,326,"Not in top 50 in either data",237,89,319
+312,37,4,322,"Not in top 50 in either data",283,39,320
+222,37,3,321,"Not in top 50 in either data",309,12,321
+475,37,3,325,"Not in top 50 in either data",310,15,322
+19,37,2,319,"Not in top 50 in either data",349,30,323
+105,37,0,320,"Not in top 50 in either data",635,315,324
+348,37,0,323,"Not in top 50 in either data",635,312,325
+432,37,0,324,"Not in top 50 in either data",635,311,326
+88,36,2,327,"Not in top 50 in either data",350,23,327
+391,36,0,328,"Not in top 50 in either data",635,307,328
+455,36,0,329,"Not in top 50 in either data",635,306,329
+234,35,1,330,"Not in top 50 in either data",402,72,330
+60,34,11,331,"Not in top 50 in either data",166,165,331
+506,34,3,335,"Not in top 50 in either data",311,24,332
+426,34,1,334,"Not in top 50 in either data",403,69,333
+178,34,0,332,"Not in top 50 in either data",635,303,334
+265,34,0,333,"Not in top 50 in either data",635,302,335
+452,33,6,343,"Not in top 50 in either data",238,105,336
+288,33,2,339,"Not in top 50 in either data",351,12,337
+435,33,2,342,"Not in top 50 in either data",352,10,338
+131,33,1,337,"Not in top 50 in either data",404,67,339
+124,33,0,336,"Not in top 50 in either data",635,299,340
+236,33,0,338,"Not in top 50 in either data",635,297,341
+298,33,0,340,"Not in top 50 in either data",635,295,342
+311,33,0,341,"Not in top 50 in either data",635,294,343
+436,32,7,344,"Not in top 50 in either data",221,123,344
+58,31,16,345,"Not in top 50 in either data",108,237,345
+485,31,6,349,"Not in top 50 in either data",239,110,346
+445,31,5,348,"Not in top 50 in either data",260,88,347
+526,31,2,350,"Not in top 50 in either data",353,3,348
+346,31,1,347,"Not in top 50 in either data",405,58,349
+275,31,0,346,"Not in top 50 in either data",635,289,350
+509,30,17,354,"Not in top 50 in either data",104,250,351
+564,30,9,355,"Not in top 50 in either data",198,157,352
+480,30,8,353,"Not in top 50 in either data",210,143,353
+97,30,2,351,"Not in top 50 in either data",354,3,354
+360,30,2,352,"Not in top 50 in either data",355,3,355
+585,30,2,356,"Not in top 50 in either data",356,0,356
+615,30,1,357,"Not in top 50 in either data",406,49,357
+473,29,12,360,"Not in top 50 in either data",155,205,358
+474,29,10,361,"Not in top 50 in either data",184,177,359
+430,29,3,359,"Not in top 50 in either data",312,47,360
+156,29,0,358,"Not in top 50 in either data",635,277,361
+629,28,13,371,"Not in top 50 in either data",144,227,362
+611,28,8,370,"Not in top 50 in either data",211,159,363
+484,28,6,367,"Not in top 50 in either data",240,127,364
+64,28,4,363,"Not in top 50 in either data",284,79,365
+463,28,3,365,"Not in top 50 in either data",313,52,366
+42,28,1,362,"Not in top 50 in either data",407,45,367
+350,28,1,364,"Not in top 50 in either data",408,44,368
+476,28,1,366,"Not in top 50 in either data",409,43,369
+530,28,1,368,"Not in top 50 in either data",410,42,370
+577,28,0,369,"Not in top 50 in either data",635,266,371
+347,27,27,376,"Not in top 50 in either data",61,315,372
+71,27,11,374,"Not in top 50 in either data",167,207,373
+425,27,8,378,"Not in top 50 in either data",212,166,374
+36,27,7,373,"Not in top 50 in either data",222,151,375
+4,27,4,372,"Not in top 50 in either data",285,87,376
+529,27,1,379,"Not in top 50 in either data",411,32,377
+330,27,0,375,"Not in top 50 in either data",635,260,378
+370,27,0,377,"Not in top 50 in either data",635,258,379
+549,27,0,380,"Not in top 50 in either data",635,255,380
+44,26,14,382,"Not in top 50 in either data",133,249,381
+606,26,11,391,"Not in top 50 in either data",168,223,382
+5,26,10,381,"Not in top 50 in either data",185,196,383
+230,26,6,385,"Not in top 50 in either data",241,144,384
+282,26,2,386,"Not in top 50 in either data",357,29,385
+439,26,1,387,"Not in top 50 in either data",412,25,386
+579,26,1,389,"Not in top 50 in either data",413,24,387
+102,26,0,383,"Not in top 50 in either data",635,252,388
+148,26,0,384,"Not in top 50 in either data",635,251,389
+488,26,0,388,"Not in top 50 in either data",635,247,390
+605,26,0,390,"Not in top 50 in either data",635,245,391
+9,25,3,392,"Not in top 50 in either data",314,78,392
+240,25,3,393,"Not in top 50 in either data",315,78,393
+584,25,3,395,"Not in top 50 in either data",316,79,394
+598,25,3,396,"Not in top 50 in either data",317,79,395
+389,25,0,394,"Not in top 50 in either data",635,241,396
+562,24,6,401,"Not in top 50 in either data",242,159,397
+271,24,4,400,"Not in top 50 in either data",286,114,398
+193,24,2,398,"Not in top 50 in either data",358,40,399
+203,24,2,399,"Not in top 50 in either data",359,40,400
+51,24,1,397,"Not in top 50 in either data",414,17,401
+355,23,17,408,"Not in top 50 in either data",105,303,402
+607,23,17,411,"Not in top 50 in either data",106,305,403
+67,23,9,403,"Not in top 50 in either data",199,204,404
+3,23,2,402,"Not in top 50 in either data",360,42,405
+129,23,0,404,"Not in top 50 in either data",635,231,406
+167,23,0,405,"Not in top 50 in either data",635,230,407
+208,23,0,406,"Not in top 50 in either data",635,229,408
+244,23,0,407,"Not in top 50 in either data",635,228,409
+434,23,0,409,"Not in top 50 in either data",635,226,410
+517,23,0,410,"Not in top 50 in either data",635,225,411
+555,22,15,417,"Not in top 50 in either data",119,298,412
+173,22,4,412,"Not in top 50 in either data",287,125,413
+400,22,4,413,"Not in top 50 in either data",288,125,414
+424,22,0,414,"Not in top 50 in either data",635,221,415
+478,22,0,415,"Not in top 50 in either data",635,220,416
+524,22,0,416,"Not in top 50 in either data",635,219,417
+374,21,11,420,"Not in top 50 in either data",169,251,418
+442,21,6,421,"Not in top 50 in either data",243,178,419
+602,21,3,422,"Not in top 50 in either data",318,104,420
+87,21,1,418,"Not in top 50 in either data",415,3,421
+177,21,0,419,"Not in top 50 in either data",635,216,422
+52,20,16,423,"Not in top 50 in either data",109,314,423
+76,20,11,424,"Not in top 50 in either data",170,254,424
+77,20,6,425,"Not in top 50 in either data",244,181,425
+444,20,6,432,"Not in top 50 in either data",245,187,426
+457,20,3,433,"Not in top 50 in either data",319,114,427
+182,20,2,427,"Not in top 50 in either data",361,66,428
+218,20,1,428,"Not in top 50 in either data",416,12,429
+266,20,1,429,"Not in top 50 in either data",417,12,430
+599,20,1,434,"Not in top 50 in either data",418,16,431
+137,20,0,426,"Not in top 50 in either data",635,209,432
+284,20,0,430,"Not in top 50 in either data",635,205,433
+344,20,0,431,"Not in top 50 in either data",635,204,434
+43,19,5,435,"Not in top 50 in either data",261,174,435
+295,19,3,439,"Not in top 50 in either data",320,119,436
+592,19,2,442,"Not in top 50 in either data",362,80,437
+228,19,1,437,"Not in top 50 in either data",419,18,438
+258,19,1,438,"Not in top 50 in either data",420,18,439
+50,19,0,436,"Not in top 50 in either data",635,199,440
+390,19,0,440,"Not in top 50 in either data",635,195,441
+586,19,0,441,"Not in top 50 in either data",635,194,442
+630,19,0,443,"Not in top 50 in either data",635,192,443
+59,18,5,445,"Not in top 50 in either data",262,183,444
+516,18,3,450,"Not in top 50 in either data",321,129,445
+18,18,2,444,"Not in top 50 in either data",363,81,446
+341,18,2,449,"Not in top 50 in either data",364,85,447
+187,18,0,446,"Not in top 50 in either data",635,189,448
+306,18,0,447,"Not in top 50 in either data",635,188,449
+331,18,0,448,"Not in top 50 in either data",635,187,450
+510,17,10,462,"Not in top 50 in either data",186,276,451
+66,17,7,454,"Not in top 50 in either data",223,231,452
+212,17,5,456,"Not in top 50 in either data",263,193,453
+136,17,3,455,"Not in top 50 in either data",322,133,454
+429,17,3,458,"Not in top 50 in either data",323,135,455
+499,17,2,461,"Not in top 50 in either data",365,96,456
+37,17,1,451,"Not in top 50 in either data",421,30,457
+45,17,0,452,"Not in top 50 in either data",635,183,458
+47,17,0,453,"Not in top 50 in either data",635,182,459
+260,17,0,457,"Not in top 50 in either data",635,178,460
+440,17,0,459,"Not in top 50 in either data",635,176,461
+482,17,0,460,"Not in top 50 in either data",635,175,462
+528,16,10,472,"Not in top 50 in either data",187,285,463
+383,16,2,470,"Not in top 50 in either data",366,104,464
+61,16,1,463,"Not in top 50 in either data",422,41,465
+538,16,1,473,"Not in top 50 in either data",423,50,466
+91,16,0,464,"Not in top 50 in either data",635,171,467
+194,16,0,465,"Not in top 50 in either data",635,170,468
+269,16,0,466,"Not in top 50 in either data",635,169,469
+308,16,0,467,"Not in top 50 in either data",635,168,470
+314,16,0,468,"Not in top 50 in either data",635,167,471
+336,16,0,469,"Not in top 50 in either data",635,166,472
+481,16,0,471,"Not in top 50 in either data",635,164,473
+367,15,5,474,"Not in top 50 in either data",264,210,474
+450,15,2,475,"Not in top 50 in either data",367,108,475
+621,15,0,476,"Not in top 50 in either data",635,159,476
+8,14,4,477,"Not in top 50 in either data",289,188,477
+245,14,2,480,"Not in top 50 in either data",368,112,478
+377,14,1,482,"Not in top 50 in either data",424,58,479
+205,14,0,478,"Not in top 50 in either data",635,157,480
+211,14,0,479,"Not in top 50 in either data",635,156,481
+318,14,0,481,"Not in top 50 in either data",635,154,482
+443,14,0,483,"Not in top 50 in either data",635,152,483
+523,14,0,484,"Not in top 50 in either data",635,151,484
+547,14,0,485,"Not in top 50 in either data",635,150,485
+92,13,3,486,"Not in top 50 in either data",324,162,486
+342,13,3,490,"Not in top 50 in either data",325,165,487
+281,13,1,488,"Not in top 50 in either data",425,63,488
+403,13,1,493,"Not in top 50 in either data",426,67,489
+272,13,0,487,"Not in top 50 in either data",635,148,490
+299,13,0,489,"Not in top 50 in either data",635,146,491
+359,13,0,491,"Not in top 50 in either data",635,144,492
+371,13,0,492,"Not in top 50 in either data",635,143,493
+408,13,0,494,"Not in top 50 in either data",635,141,494
+423,13,0,495,"Not in top 50 in either data",635,140,495
+138,12,4,498,"Not in top 50 in either data",290,208,496
+118,12,3,497,"Not in top 50 in either data",326,171,497
+616,12,3,501,"Not in top 50 in either data",327,174,498
+41,12,0,496,"Not in top 50 in either data",635,139,499
+259,12,0,499,"Not in top 50 in either data",635,136,500
+550,12,0,500,"Not in top 50 in either data",635,135,501
+49,11,2,503,"Not in top 50 in either data",369,134,502
+146,11,1,504,"Not in top 50 in either data",427,77,503
+46,11,0,502,"Not in top 50 in either data",635,133,504
+189,11,0,505,"Not in top 50 in either data",635,130,505
+372,11,0,506,"Not in top 50 in either data",635,129,506
+401,11,0,507,"Not in top 50 in either data",635,128,507
+221,10,2,509,"Not in top 50 in either data",370,139,508
+63,10,1,508,"Not in top 50 in either data",428,80,509
+227,10,1,510,"Not in top 50 in either data",429,81,510
+379,10,1,512,"Not in top 50 in either data",430,82,511
+542,10,1,514,"Not in top 50 in either data",431,83,512
+335,10,0,511,"Not in top 50 in either data",635,124,513
+380,10,0,513,"Not in top 50 in either data",635,122,514
+402,9,2,518,"Not in top 50 in either data",371,147,515
+487,9,2,519,"Not in top 50 in either data",372,147,516
+233,9,1,515,"Not in top 50 in either data",432,83,517
+376,9,1,517,"Not in top 50 in either data",433,84,518
+278,9,0,516,"Not in top 50 in either data",635,119,519
+568,9,0,520,"Not in top 50 in either data",635,115,520
+168,8,5,526,"Not in top 50 in either data",265,261,521
+365,8,5,531,"Not in top 50 in either data",266,265,522
+270,8,4,528,"Not in top 50 in either data",291,237,523
+304,8,4,529,"Not in top 50 in either data",292,237,524
+53,8,2,523,"Not in top 50 in either data",373,150,525
+493,8,2,532,"Not in top 50 in either data",374,158,526
+75,8,1,524,"Not in top 50 in either data",434,90,527
+504,8,1,533,"Not in top 50 in either data",435,98,528
+13,8,0,521,"Not in top 50 in either data",635,114,529
+16,8,0,522,"Not in top 50 in either data",635,113,530
+84,8,0,525,"Not in top 50 in either data",635,110,531
+239,8,0,527,"Not in top 50 in either data",635,108,532
+305,8,0,530,"Not in top 50 in either data",635,105,533
+561,8,0,534,"Not in top 50 in either data",635,101,534
+72,7,3,537,"Not in top 50 in either data",328,209,535
+65,7,1,536,"Not in top 50 in either data",436,100,536
+511,7,1,540,"Not in top 50 in either data",437,103,537
+48,7,0,535,"Not in top 50 in either data",635,100,538
+134,7,0,538,"Not in top 50 in either data",635,97,539
+301,7,0,539,"Not in top 50 in either data",635,96,540
+566,7,0,541,"Not in top 50 in either data",635,94,541
+545,6,6,548,"Not in top 50 in either data",246,302,542
+235,6,2,544,"Not in top 50 in either data",375,169,543
+300,6,2,546,"Not in top 50 in either data",376,170,544
+496,6,1,547,"Not in top 50 in either data",438,109,545
+132,6,0,542,"Not in top 50 in either data",635,93,546
+190,6,0,543,"Not in top 50 in either data",635,92,547
+296,6,0,545,"Not in top 50 in either data",635,90,548
+567,6,0,549,"Not in top 50 in either data",635,86,549
+627,5,5,563,"Not in top 50 in either data",267,296,550
+161,5,3,552,"Not in top 50 in either data",329,223,551
+14,5,1,550,"Not in top 50 in either data",439,111,552
+329,5,1,555,"Not in top 50 in either data",440,115,553
+338,5,1,556,"Not in top 50 in either data",441,115,554
+17,5,0,551,"Not in top 50 in either data",635,84,555
+216,5,0,553,"Not in top 50 in either data",635,82,556
+290,5,0,554,"Not in top 50 in either data",635,81,557
+356,5,0,557,"Not in top 50 in either data",635,78,558
+384,5,0,558,"Not in top 50 in either data",635,77,559
+539,5,0,559,"Not in top 50 in either data",635,76,560
+563,5,0,560,"Not in top 50 in either data",635,75,561
+608,5,0,561,"Not in top 50 in either data",635,74,562
+613,5,0,562,"Not in top 50 in either data",635,73,563
+618,4,4,568,"Not in top 50 in either data",293,275,564
+276,4,0,564,"Not in top 50 in either data",635,71,565
+508,4,0,565,"Not in top 50 in either data",635,70,566
+560,4,0,566,"Not in top 50 in either data",635,69,567
+597,4,0,567,"Not in top 50 in either data",635,68,568
+140,3,1,569,"Not in top 50 in either data",442,127,569
+180,3,1,570,"Not in top 50 in either data",443,127,570
+622,3,1,574,"Not in top 50 in either data",444,130,571
+486,3,0,571,"Not in top 50 in either data",635,64,572
+497,3,0,572,"Not in top 50 in either data",635,63,573
+552,3,0,573,"Not in top 50 in either data",635,62,574
+619,2,2,585,"Not in top 50 in either data",377,208,575
+22,2,0,575,"Not in top 50 in either data",635,60,576
+34,2,0,576,"Not in top 50 in either data",635,59,577
+96,2,0,577,"Not in top 50 in either data",635,58,578
+220,2,0,578,"Not in top 50 in either data",635,57,579
+398,2,0,579,"Not in top 50 in either data",635,56,580
+515,2,0,580,"Not in top 50 in either data",635,55,581
+520,2,0,581,"Not in top 50 in either data",635,54,582
+534,2,0,582,"Not in top 50 in either data",635,53,583
+546,2,0,583,"Not in top 50 in either data",635,52,584
+609,2,0,584,"Not in top 50 in either data",635,51,585
+623,2,0,586,"Not in top 50 in either data",635,49,586
+395,1,1,593,"Not in top 50 in either data",445,148,587
+533,1,1,595,"Not in top 50 in either data",446,149,588
+625,1,1,599,"Not in top 50 in either data",447,152,589
+20,1,0,587,"Not in top 50 in either data",635,48,590
+109,1,0,588,"Not in top 50 in either data",635,47,591
+141,1,0,589,"Not in top 50 in either data",635,46,592
+175,1,0,590,"Not in top 50 in either data",635,45,593
+217,1,0,591,"Not in top 50 in either data",635,44,594
+352,1,0,592,"Not in top 50 in either data",635,43,595
+518,1,0,594,"Not in top 50 in either data",635,41,596
+582,1,0,596,"Not in top 50 in either data",635,39,597
+596,1,0,597,"Not in top 50 in either data",635,38,598
+617,1,0,598,"Not in top 50 in either data",635,37,599
+54,0,0,0,"Top 50 only on data with no length restrictions",635,635,600
+145,0,0,0,"Top 50 only on data with no length restrictions",635,635,601
+155,0,0,0,"Top 50 only on data with no length restrictions",635,635,602
+158,0,0,0,"Top 50 only on data with no length restrictions",635,635,603
+176,0,0,0,"Top 50 only on data with no length restrictions",635,635,604
+277,0,0,0,"Top 50 only on data with no length restrictions",635,635,605
+319,0,0,0,"Top 50 only on data with no length restrictions",635,635,606
+320,0,0,0,"Top 50 only on data with no length restrictions",635,635,607
+332,0,0,0,"Top 50 only on data with no length restrictions",635,635,608
+361,0,0,0,"Top 50 only on data with no length restrictions",635,635,609
+362,0,0,0,"Top 50 only on data with no length restrictions",635,635,610
+397,0,0,0,"Top 50 only on data with no length restrictions",635,635,611
+498,0,0,0,"Top 50 only on data with no length restrictions",635,635,612
+503,0,0,0,"Top 50 only on data with no length restrictions",635,635,613
+514,0,0,0,"Top 50 only on data with no length restrictions",635,635,614
+521,0,0,0,"Top 50 only on data with no length restrictions",635,635,615
+540,0,0,0,"Top 50 only on data with no length restrictions",635,635,616
+553,0,0,0,"Top 50 only on data with no length restrictions",635,635,617
+573,0,0,0,"Top 50 only on data with no length restrictions",635,635,618
+587,0,0,0,"Top 50 only on data with no length restrictions",635,635,619
+589,0,0,0,"Top 50 only on data with no length restrictions",635,635,620
+614,0,0,0,"Top 50 only on data with no length restrictions",635,635,621
