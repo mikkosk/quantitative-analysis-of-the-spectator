@@ -57,8 +57,8 @@ dev.off()
 pon_no_bernard <- pon %>% filter(!grepl("^B", id))
 
 fig1greyscale <- draw1greyscale(pon_no_bernard, "Full or partial the Spectator editions")
-file <- paste("C:/Users/mikko/OneDrive/Desktop/Gradu/cleaned_thesis_code/graphs/used/article_fig1_estc_counts.png", sep="")
-png(file=file,
-    width=1200, height=700)
+file <- paste("C:/Users/mikko/OneDrive/Desktop/Gradu/article_code/graphs/used/article_fig1_estc_counts.tiff", sep="")
+tiff(file=file,
+    width=2400, height=1400, res=300)
 print(fig1greyscale)
 dev.off()

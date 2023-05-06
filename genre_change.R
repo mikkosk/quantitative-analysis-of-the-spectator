@@ -47,8 +47,8 @@ new_clusters_bar <- ggplot(new_clusters_percentages, aes(x=reorder(main_category
 
 
 
-file <- paste("C:/Users/mikko/OneDrive/Desktop/Gradu/cleaned_thesis_code/graphs/used/genre_bar.png", sep="")
-png(file=file,
-    width=1200, height=700)
+file <- paste("C:/Users/mikko/OneDrive/Desktop/Gradu/article_code/graphs/used/article_fig5_genre_bar.tiff", sep="")
+tiff(file=file,
+    width=2400, height=1400, res=300)
 print(new_clusters_bar)
 dev.off()

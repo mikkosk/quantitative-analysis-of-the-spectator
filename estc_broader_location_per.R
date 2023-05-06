@@ -32,7 +32,8 @@ draw4greyscale <- function(data, title) {
   
   return(ggplot(data = data, aes(fill=broader_location, y = n, x = publication_decade)) +
            geom_bar(position=position_dodge2(width = 0.9, preserve = "single"), stat="identity") +
-           theme(text = element_text(size = 30), legend.title=element_blank()) + scale_fill_grey(start = 0, end = .9) + theme_bw() + 
+           theme(text = element_text(size = 30)) + scale_fill_grey(start = 0, end = .9) + theme_bw() +
+           labs(fill="Location") +
            scale_x_continuous(name="Decade", breaks=seq(1710,1790,20)) +
            scale_y_continuous(name="Entries published"))
   
@@ -51,9 +52,9 @@ dev.off()
 
 final4greyscale <- draw4greyscale(no_added_bernard)
 
-file <- paste("C:/Users/mikko/OneDrive/Desktop/Gradu/cleaned_thesis_code/graphs/used/article_fig4_broader_location.png", sep="")
-png(file=file,
-    width=1200, height=700)
+file <- paste("C:/Users/mikko/OneDrive/Desktop/Gradu/article_code/graphs/used/article_fig2_broader_location.tiff", sep="")
+tiff(file=file,
+    width=2400, height=1400, res=300)
 
 print(final4greyscale)
 

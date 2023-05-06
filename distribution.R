@@ -72,3 +72,26 @@ dev.off()
 
 file <- paste("C:/Users/mikko/OneDrive/Desktop/Gradu/cleaned_thesis_code/csv/spectator_distiribution.csv", sep="")
 write.csv(numberHitDistribution,file, row.names=FALSE)
+
+
+simple_distribution_fig <- ggplot(pureShortComp) + geom_col(aes(x=number, y=noPure)) +
+  scale_x_continuous(name = "Issue number") +
+  scale_y_continuous(name = "Number of reuse cases")
+print(simple_distribution_fig)
+
+file <- paste("C:/Users/mikko/OneDrive/Desktop/Gradu/article_code/graphs/used/article_fig3_simple_distribution.tiff", sep="")
+tiff(file=file,
+    width=2400, height=1400, res=300)
+print(simple_distribution_fig)
+dev.off()
+
+histogram_distribution_fig <- pureShortComp %>% ggplot() + geom_histogram(aes(noPure), binwidth=20) +
+  scale_x_continuous(name = "Number of reuse cases") +
+  scale_y_continuous(name = "Count")
+print(histogram_distribution_fig)
+
+file <- paste("C:/Users/mikko/OneDrive/Desktop/Gradu/article_code/graphs/used/article_fig4_histogram.tiff", sep="")
+tiff(file=file,
+     width=2400, height=1400, res=300)
+print(histogram_distribution_fig)
+dev.off()
